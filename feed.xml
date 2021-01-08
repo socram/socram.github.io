@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>socram;</title>
+    <description>Meu blog</description>
+    <link>https://socram.github.io/</link>
+    <atom:link href="https://socram.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Titulo bem grande para a pagina</title>
+        <description>&lt;p&gt;Trio is a simple, content-focused, responsive, mobile-friendly &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; theme. Trio comes with support for these things out-of-the-box:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://socram.github.io/feed.xml&quot;&gt;RSS feed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://socram.github.io/404.html&quot;&gt;404 page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Markdown syntax highlighting, fenced code blocks, tables, GitHub gists, blockquotes&lt;/li&gt;
+&lt;li&gt;Post sharing buttons&lt;/li&gt;
+&lt;li&gt;Paginated list of posts&lt;/li&gt;
+&lt;li&gt;Formspree &lt;a href=&quot;https://socram.github.io/contact/&quot;&gt;contact form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Nine color themes&lt;/li&gt;
+&lt;li&gt;Support for logos using &lt;a href=&quot;http://fortawesome.github.io/Font-Awesome&quot;&gt;Font Awesome&lt;/a&gt; icons&lt;/li&gt;
+&lt;li&gt;Full-text search&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;where-is-it&quot;&gt;Where is it?&lt;/h3&gt;
+
+&lt;p&gt;Trio lives in a &lt;a href=&quot;https://github.com/ankur-gupta/trio&quot;&gt;GitHub repository&lt;/a&gt;. It is free and open-source with &lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;MIT License&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please feel free to download it, request a feature or report a bug.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Jan 2021 00:00:00 -0300</pubDate>
+        <link>https://socram.github.io/2021/01/06/0/</link>
+        <guid isPermaLink="true">https://socram.github.io/2021/01/06/0/</guid>
+      </item>
+    
+  </channel>
+</rss>
